@@ -107,6 +107,22 @@ header nav a:hover {
     width: 70%
 }
 
+.genero {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.filmes {
+    margin-top: 25px;
+    
+}
+
+.series {
+    margin-top: 5px;
+}
+
 .box-filme {
     height: 100%;
     width: 100%;
@@ -115,4 +131,8 @@ header nav a:hover {
 
 .carrosel-filmes{
     margin-top: 5px;
+}
+
+.item {
+    cursor: pointer;
 }
